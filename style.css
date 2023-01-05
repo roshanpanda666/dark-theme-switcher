@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 300px;
+
+}
+
+button{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    height: 50px;
+    width: 90px;
+    
+}
+
+.whitebtn{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+}
+
+.body2{
+    background-color: black;
+    color: white;
+}
